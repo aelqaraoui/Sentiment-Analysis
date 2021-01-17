@@ -7,7 +7,7 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
           "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
           "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 
-headers = {'Authorization':'Bearer FHKjNSKNxiHSjk7Ov94lD2FQ9Vv-zp9rM0eXQgKWCDi0qwHr2GPGaqNYY3xGkj52PMtuU4rYWyhLZgjYrNM725w1E79pasAlKBO4AszgGeXpqA2i1WjS6FHRRWwAYHYx'}
+          headers = {'Authorization':'Bearer API_KEY_HERE'}
 
 reviews = []
 
